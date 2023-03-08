@@ -1,0 +1,13 @@
+body{
+        font-family: 'Roboto', sans-serif;
+        background-color: lightblue;
+    }
+    .navbar ul li {
+        display: inline;
+        padding-left: 40px;
+    }
+
+    .navbar ul{
+        display: flex;
+        align-items: center;
+        justify-content: center;
